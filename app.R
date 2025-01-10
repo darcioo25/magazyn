@@ -31,7 +31,7 @@ source("modules/porownaj_module.R")
 
 
 ui <- dashboardPage(
-  dashboardHeader(title = "Media Markt"),
+  dashboardHeader(title = "Sklep"),
   dashboardSidebar(
     sidebarMenu(
       menuItem("Dashboard", tabName = "dashboard", icon = icon("dashboard")),
