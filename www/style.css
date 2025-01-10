@@ -1,0 +1,27 @@
+/* www/styles.css */
+
+/* Styl dla klasy 'kolumna-zysk-strata' */
+.kolumna-zysk-strata {
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center; /* Wycentrowanie tekstu poziomo */
+    font-size: 16px;
+  }
+  
+  /* Stylizacja dla boxów */
+  .box {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Stylizacja nagłówków */
+  h2, h4 {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Dodanie marginesów między boxami */
+  .dashboard-tab .box {
+    margin-bottom: 20px;
+  }
+  
